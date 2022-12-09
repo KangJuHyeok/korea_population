@@ -39,4 +39,7 @@
 ***
 <br/><br/>
 통계청에서 광역시,특별시처럼 큰 지역 단위로 이루어진 통계자료 말고 공릉동 같이 작은 지역 단위로 이루어진 통계자료도 얻을 수 있다. <br/>
-이를 이용하면 우리 주변 지역의 남녀 성비도 쉽게 알 수 있을 것이다.
+이를 이용하면 우리 주변 지역의 남녀 성비도 쉽게 알 수 있을 것이다.<br/><br/><br/><br/><br/><br/>
+# Reference
+[전국지도 만들기](https://blog.naver.com/PostView.nhn?blogId=kcchang61&logNo=221350672356) <br/>
+[곡선 추세선](https://www.bwyoon.com/2018/07/10/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-17/) <br/>
